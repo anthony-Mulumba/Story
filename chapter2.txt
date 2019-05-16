@@ -1,1 +1,1 @@
-This is the second chapter for Git.
+This is the second MODIFIED chapter for Git.
